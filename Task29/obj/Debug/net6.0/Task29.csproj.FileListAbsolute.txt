@@ -1,0 +1,15 @@
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\bin\Debug\net6.0\Task29.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\bin\Debug\net6.0\Task29.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\bin\Debug\net6.0\Task29.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\bin\Debug\net6.0\Task29.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\refint\Task29.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Home_Work4\Task29\obj\Debug\net6.0\ref\Task29.dll
